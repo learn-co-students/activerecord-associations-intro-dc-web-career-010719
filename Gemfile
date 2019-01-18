@@ -8,3 +8,6 @@ gem 'rspec'
 gem 'pry'
 gem 'rake'
 gem 'database_cleaner'
+
+gem 'learn-co'
+gem 'pry-rescue'
